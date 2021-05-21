@@ -1,3 +1,3 @@
 # Layout for psychology landing
 
-## Done by a freelancer
+Done by a freelancer
