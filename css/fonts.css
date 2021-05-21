@@ -1,0 +1,44 @@
+@font-face {
+	font-display: swap;
+	font-family: "Montserrat";
+	src: url(../fonts/Montserrat-Medium/Montserrat-Medium.woff2) format("woff2"),
+	url("../fonts/Montserrat-Medium/Montserrat-Medium.woff") format("woff");
+	font-style: normal;
+	font-weight: 500;
+}
+
+@font-face {
+	font-display: swap;
+	font-family: "Montserrat";
+	src: url(../fonts/Montserrat-SemiBold/Montserrat-SemiBold.woff2) format("woff2"),
+	url("../fonts/Montserrat-SemiBold/Montserrat-SemiBold.woff") format("woff");
+	font-style: normal;
+	font-weight: 600;
+}
+
+@font-face {
+	font-display: swap;
+	font-family: "Montserrat";
+	src: url(../fonts/Montserrat-Bold/Montserrat-Bold.woff2) format("woff2"),
+	url("../fonts/Montserrat-Bold/Montserrat-Bold.woff") format("woff");
+	font-style: normal;
+	font-weight: 700;
+}
+
+@font-face {
+	font-display: swap;
+	font-family: "Montserrat";
+	src: url(../fonts/Montserrat-Black/Montserrat-Black.woff2) format("woff2"),
+	url("../fonts/Montserrat-Black/Montserrat-Black.woff") format("woff");
+	font-style: normal;
+	font-weight: 900;
+}
+
+@font-face {
+	font-display: swap;
+	font-family: "Caveat";
+	src: url(../fonts/Caveat-Bold/Caveat-Bold.woff2) format("woff2"),
+	url("../fonts/Caveat-Bold/Caveat-Bold.woff") format("woff");
+	font-style: normal;
+	font-weight: 700;
+}
